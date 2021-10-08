@@ -13,4 +13,4 @@
     TO DO
     *****
     
-    * Implement kubernetes external secrets for Backend service in both dev & prd.
+    * Implement kubernetes external secrets for Backend service in both dev and prd.
