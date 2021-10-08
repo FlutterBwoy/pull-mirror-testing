@@ -1,0 +1,16 @@
+    
+    
+    UPDATES
+    *******
+    
+    * Created a new branch called secrets-test in Authentication repo. Set up external secrets using AWS secret manager
+      for Authentication service. Edited gitlab-ci.yaml as well as deployment.yaml as well as values.yaml, to use secrets instead
+      of ConfigMaps.
+      After testing out the whole setup in the new branch, with further confirmation from the developer, merged the changes to develop.
+      Performed the same for Auth service in prod cluster as well.
+    
+    
+    TO DO
+    *****
+    
+    * Implement kubernetes external secrets for Backend service in both dev & prd.
