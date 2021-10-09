@@ -13,6 +13,7 @@
     TO DO
     *****
     
+    * Implement kubernetes external secrets for Backend service in both dev and prd.dsfCZX 
 
     * Implement kubernetes external secrets for Backend service in both dev and prd.dsf
 
